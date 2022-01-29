@@ -1,22 +1,26 @@
 # Flutter Shoes Store App UI with support for dark and light mode.
 ### Flutter 2.8.1 Null Safety
-Beautiful Phone E-Store App UI with support for dark and light mode. Created by Jakub Sobański - https://www.linkedin.com/in/jakubsobanski/.
+Beautiful Shoes Store App UI with support for dark and light mode. Created by Jakub Sobański - https://www.linkedin.com/in/jakubsobanski/.
 ## Please leave a ⭐ if you like it 💙
 ## How it looks:
 #### Light mode ⚪ :
 
-https://user-images.githubusercontent.com/94771855/150841667-9a4d9beb-d49a-435c-8ca5-b57a9ef86219.mp4
 
-<img width="391" alt="phonestore1" src="https://user-images.githubusercontent.com/94771855/150841622-c95981c5-c616-493c-81b8-c0e769b9447d.png">
-<img width="391" alt="phonestore4" src="https://user-images.githubusercontent.com/94771855/150833065-76b10a9f-5718-4441-a322-f3163899c817.png">
+https://user-images.githubusercontent.com/94771855/151665312-bdf5c619-78e2-494d-9c31-af0b55f27cf2.mp4
+
+
+<img width="391" alt="shoesstore1" src="https://user-images.githubusercontent.com/94771855/151665040-1b93a7b3-b703-4664-951d-7a640a71aaab.png">
+<img width="391" alt="shoesstore4" src="https://user-images.githubusercontent.com/94771855/151665036-3165005d-db9f-4d6c-a842-e9be45378a8d.png">
 
 
 #### Dark mode ⚫ :
 
-https://user-images.githubusercontent.com/94771855/150841697-5c7c59e0-df91-4698-a4b8-0dcf3e748250.mp4
+https://user-images.githubusercontent.com/94771855/151665313-63b066b2-0fa8-40e3-ba0a-c905ab053a03.mp4
 
-<img width="391" alt="phonestore2" src="https://user-images.githubusercontent.com/94771855/150841400-12b51056-cb65-4a2c-98f1-faaeac5ab2c8.png">
-<img width="391" alt="phonestore3" src="https://user-images.githubusercontent.com/94771855/150832902-c76760ea-6893-4ed1-b33f-854366f3b4fb.png">
+<img width="391" alt="shoestore2" src="https://user-images.githubusercontent.com/94771855/151665102-18a31778-9cbe-4b9f-a339-d83487530c9b.png">
+<img width="391" alt="shoesstore3" src="https://user-images.githubusercontent.com/94771855/151665114-f58f901d-dc94-40a9-bd76-e82778a352d9.png">
+
+
 
 - Dark and Light Mode friendly
 - Backend ready
@@ -26,7 +30,7 @@ https://user-images.githubusercontent.com/94771855/150841697-5c7c59e0-df91-4698-
 - Easy to edit
 - Null safety
 
-### UI inspiration from https://github.com/MonsieurZbanowanYY/Car-Rental-App-UI-Flutter
-#### Bottom navbar created by Martin Gogołowicz https://github.com/MonsieurZbanowanYY
+### UI inspiration from https://dribbble.com/shots/17367421-Sneakers-Trading-App-1
+#### Search widget created by Martin Gogołowicz https://github.com/MonsieurZbanowanYY
 #### README template by Martin Gogołowicz https://github.com/MonsieurZbanowanYY
 
